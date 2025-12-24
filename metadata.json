@@ -1,0 +1,7 @@
+{
+  "name": "Neon AR Strike",
+  "description": "A futuristic AR shooting game using hand tracking. Aim with your finger and pinch to fire at 3D floating targets.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
